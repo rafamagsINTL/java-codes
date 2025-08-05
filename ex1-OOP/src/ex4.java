@@ -10,7 +10,6 @@ public class main {
         }else{
             System.out.println("nao passou");
         }
-        
-    }    
-    scanner.close();
+        scanner.close();
+    }
 }
