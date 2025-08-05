@@ -1,2 +1,2 @@
 # java-codes
-learning java
+Java codes used in Object-Oriented Programming with Java classes
